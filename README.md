@@ -43,5 +43,4 @@ Inside the notebook:
 Note: Since the notebook is in view-only mode, make a copy to run it.
 
 ## Live Project Link: 
-
-https://tutortank.vercel.app/
+https://the-tutor-tank.vercel.app/

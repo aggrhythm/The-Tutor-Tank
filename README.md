@@ -1,5 +1,5 @@
 # Tutor Tank
-The ADAM model to revolutionize education by personalizing performance of learners.
+The ADAM model aims to revolutionize education by personalizing performance of learners.
 
 ## About Tutor Tank
 Traditional educational approaches often employ a one-size-fits-all model, which may not effectively cater to the diverse learning needs and preferences of individual students. Tutor Tank addresses this by providing personalized learning experiences tailored to each learner's unique strengths, weaknesses, and learning styles.
